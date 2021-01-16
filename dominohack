@@ -1,0 +1,11 @@
+pkg update && pkg upgrade
+pkg python2
+pkg install puthon2
+pkg install git
+pip2 install requests
+pkg install bs4
+pip2 install bs4
+is
+cd domino
+is
+python2 domino.py
